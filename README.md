@@ -8,7 +8,11 @@ This are some of my self learning project. I rebuilt the projects I learned for 
 ## 📘 What I Learned from This Project
 
 - ✅ HTML & CSS skills
-- ✅ JavaScript Dom manipulation 
+- ✅ JavaScript Dom manipulation
+
+## 📘 Demo
+
+- I. Quiz Game : https://wondrous-dieffenbachia-411d08.netlify.app
 
 Thank you for checking out my project!
 

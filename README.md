@@ -12,7 +12,7 @@ This are some of my self learning project. I rebuilt the projects I learned for 
 
 ## 📘 Demo
 
-- I. Quiz Game : https://wondrous-dieffenbachia-411d08.netlify.app
+- I. Quiz Game :https://musical-jelly-469dbd.netlify.app/
 
 Thank you for checking out my project!
 
